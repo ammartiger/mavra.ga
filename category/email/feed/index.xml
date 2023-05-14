@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Email &#8211; Mavra  Hassan</title>
-	<atom:link href="/category/email/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>Email Marketer and Social Media Manager</description>
 	<lastBuildDate>Tue, 20 Sep 2022 11:23:06 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,26 +21,26 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>Browse my Email Campaign Designs</title>
-		<link>/2022/09/20/browse-my-email-campaign-designs/</link>
-					<comments>/2022/09/20/browse-my-email-campaign-designs/#respond</comments>
+		<link>./../../../2022/09/20/browse-my-email-campaign-designs/index.html</link>
+					<comments>./../../../2022/09/20/browse-my-email-campaign-designs/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[mavra]]></dc:creator>
 		<pubDate>Tue, 20 Sep 2022 11:23:05 +0000</pubDate>
 				<category><![CDATA[Email]]></category>
 		<category><![CDATA[Email Marketing]]></category>
 		<category><![CDATA[email]]></category>
-		<guid isPermaLink="false">/?p=935</guid>
+		<guid isPermaLink="false">./../../../index.html?p=935</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-file"><object class="wp-block-file__embed" data="/wp-content/uploads/2022/09/12_merged.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of Embed of Designs.."></object><a id="wp-block-file--media-a25d258c-6e21-42af-8421-5f1497016543" href="/wp-content/uploads/2022/09/12_merged.pdf">Designs</a><a href="/wp-content/uploads/2022/09/12_merged.pdf" class="wp-block-file__button" download aria-describedby="wp-block-file--media-a25d258c-6e21-42af-8421-5f1497016543">Download</a></div>
+<div class="wp-block-file"><object class="wp-block-file__embed" data="./../../../wp-content/uploads/2022/09/12_merged.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of Embed of Designs.."></object><a id="wp-block-file--media-a25d258c-6e21-42af-8421-5f1497016543" href="./../../../wp-content/uploads/2022/09/12_merged.pdf">Designs</a><a href="./../../../wp-content/uploads/2022/09/12_merged.pdf" class="wp-block-file__button" download aria-describedby="wp-block-file--media-a25d258c-6e21-42af-8421-5f1497016543">Download</a></div>
 
 
 
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2022/09/20/browse-my-email-campaign-designs/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../2022/09/20/browse-my-email-campaign-designs/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

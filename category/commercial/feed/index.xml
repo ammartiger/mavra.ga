@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Commercial &#8211; Mavra  Hassan</title>
-	<atom:link href="/category/commercial/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>Email Marketer and Social Media Manager</description>
 	<lastBuildDate>Tue, 15 Jun 2021 13:23:44 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
 		<title>Quisque Iddiam Velquam Elementum Pulvinar</title>
-		<link>/2021/06/15/quisque-iddiam-velquam-elementum-pulvinar/</link>
-					<comments>/2021/06/15/quisque-iddiam-velquam-elementum-pulvinar/#respond</comments>
+		<link>./../../../2021/06/15/quisque-iddiam-velquam-elementum-pulvinar/index.html</link>
+					<comments>./../../../2021/06/15/quisque-iddiam-velquam-elementum-pulvinar/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[mavra]]></dc:creator>
 		<pubDate>Tue, 15 Jun 2021 13:23:44 +0000</pubDate>
@@ -50,15 +50,15 @@
 <p>Nunc consequat interdum varius sit amet mattis. Quam quisque id diam vel. Sit amet justo donec enim. Erat velit scelerisque in dictum non consectetur a. Odio ut enim blandit volutpat maecenas volutpat blandit aliquam. Quisque id diam vel quam elementum pulvinar etiam. Rhoncus dolor purus non enim praesent elementum facilisis. Eros in cursus turpis massa tincidunt dui ut. Volutpat odio facilisis mauris sit amet massa vitae tortor condimentum. Eget duis at tellus at.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2021/06/15/quisque-iddiam-velquam-elementum-pulvinar/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../2021/06/15/quisque-iddiam-velquam-elementum-pulvinar/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Proin Exipsum Facilisis Tincidunt Vulputate</title>
-		<link>/2021/06/04/proin-ex-ipsum-facilisis-tincidunt-vulputate/</link>
-					<comments>/2021/06/04/proin-ex-ipsum-facilisis-tincidunt-vulputate/#respond</comments>
+		<link>./../../../2021/06/04/proin-ex-ipsum-facilisis-tincidunt-vulputate/index.html</link>
+					<comments>./../../../2021/06/04/proin-ex-ipsum-facilisis-tincidunt-vulputate/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[mavra]]></dc:creator>
 		<pubDate>Fri, 04 Jun 2021 07:39:07 +0000</pubDate>
@@ -86,7 +86,7 @@
 <p>A erat nam at lectus. Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque. Vehicula ipsum a arcu cursus vitae congue mauris rhoncus. Id nibh tortor id aliquet lectus proin nibh nisl condimentum. Cras pulvinar mattis nunc sed blandit. Integer feugiat scelerisque varius morbi enim nunc faucibus a. Enim blandit volutpat maecenas volutpat blandit aliquam. Nam at lectus urna duis convallis convallis tellus. Semper feugiat nibh sed pulvinar proin. Nisi lacus sed viverra tellus in hac habitasse platea.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2021/06/04/proin-ex-ipsum-facilisis-tincidunt-vulputate/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../2021/06/04/proin-ex-ipsum-facilisis-tincidunt-vulputate/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
